@@ -30,15 +30,15 @@ profiles:
   - icon: at-symbol
     url: 'mailto:jimfallonjr@gmail.com'
     label: E-mail Me
-  - icon: ''
+  # - icon: ''
     url: https://twitter.com/GetResearchDev
-  - icon: ''
+  # - icon: ''
     url: https://www.instagram.com/
-  - icon: ''
+  # - icon: ''
     url: https://www.linkedin.com/
-  - icon: ''
+  # - icon: ''
     url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
-  - icon: ''
+  # - icon: ''
     url: https://www.orcid.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: ''
