@@ -27,7 +27,7 @@ organizations:
 # Social Networking
 ---
 
-Jim is a graduate of the College of the Holy Cross (B.S. in Physics, 1967) and New York University Law School (J.D., 1970). After two yours in the United States Army, he was admitted to bar in 1972. Formerly a partner in Fallon and Fallon LLP, Jim is a general practice attorney specializing in real estate, wills, and estates. 
+Jim is a graduate of the College of the Holy Cross (B.S. in Physics, 1967) and New York University Law School (J.D., 1970). After two years in the United States Army, he was admitted to the bar in 1972. Formerly a partner in Fallon and Fallon LLP, Jim is a general practice attorney specializing in real estate, wills, and estates. 
 
 Contact Information: </p>
 Email: jimfallonjr@gmail.com </p>
