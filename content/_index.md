@@ -22,7 +22,7 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Email Me
+       # - text: Email Me
           icon: at-symbol
           url: mailto:jimfallonjr@gmail.com
        # - text: Watch my new YouTube video to achieve 20x productivity
