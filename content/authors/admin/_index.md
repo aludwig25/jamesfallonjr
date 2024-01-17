@@ -30,20 +30,6 @@ profiles:
    - icon: at-symbol
     url: 'mailto:jimfallonjr@gmail.com'
     label: E-mail Me
-  # - icon: ''
-    url: https://twitter.com/GetResearchDev
-  # - icon: ''
-    url: https://www.instagram.com/
-  # - icon: ''
-    url: https://www.linkedin.com/
-  # - icon: ''
-    url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
-  # - icon: ''
-    url: https://www.orcid.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  # - icon: ''
-    url: uploads/resume.pdf
-    label: Download my resume
 ---
 
 Jim is a graduate of the College of the Holy Cross (B.S., 1967) and New York University Law School (J.D., 1970). After two yours in the United States Army, he joined the New York State Bar Association in 1972. Formerly a partner in Fallon and Fallon LLP, Jim is a general practice attorney specializing in real estate, wills, and estates. 
