@@ -27,7 +27,7 @@ organizations:
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+    - icon: at-symbol
     url: 'mailto:jimfallonjr@gmail.com'
     label: E-mail Me
   # - icon: ''
@@ -41,7 +41,7 @@ profiles:
   # - icon: ''
     url: https://www.orcid.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-   - icon: ''
+  # - icon: ''
     url: uploads/resume.pdf
     label: Download my resume
 ---
