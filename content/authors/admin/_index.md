@@ -41,7 +41,7 @@ profiles:
   # - icon: ''
     url: https://www.orcid.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  # - icon: ''
+   - icon: ''
     url: uploads/resume.pdf
     label: Download my resume
 ---
