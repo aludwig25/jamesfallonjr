@@ -19,7 +19,7 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: cta-button-list
     content:
-       # - text: Email Me
+        - text: Email Me
           icon: at-symbol
           url: mailto:jimfallonjr@gmail.com
 ---
