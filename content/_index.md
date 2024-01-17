@@ -22,10 +22,4 @@ sections:
        # - text: Email Me
           icon: at-symbol
           url: mailto:jimfallonjr@gmail.com
-       # - text: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
-          url: https://youtube.com
-       # - text: Connect with me on LinkedIn
-          icon: brands/linkedin
-          url: https://linkedin.com
 ---
