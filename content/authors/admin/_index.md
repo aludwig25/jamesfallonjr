@@ -27,7 +27,7 @@ organizations:
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at symbol
+  - icon: at-symbol
     url: 'mailto:jimfallonjr@gmail.com'
     label: E-mail Me
   # - icon: ''
